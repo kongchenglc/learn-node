@@ -1,0 +1,97 @@
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline; }
+
+	.head{
+		width: 100%;
+		height: 87px;
+		position: fixed;
+		z-index: 99;
+		background: #FFF;
+	}
+	.logo{
+		width: 270px;
+		display: block;
+		float: left;
+		margin: 26px 0 0 10%;
+	}
+	.logo img{
+		width: 100%;
+	}
+	.menu {
+		float: right;
+		margin-right:120px;
+	}
+	.menu-level-0 {
+		float: left;
+		list-style-type: none;
+		padding: 25px 20px 37px;
+		border-top: solid 5px rgba(0,0,0,0);
+	}
+	.menu-level-0:hover {
+		background: rgba(204,204,204,0.2);
+		border-top: solid 5px #222;
+		-moz-transition:all 1s; 
+	}
+	.menu-level-0 a {
+		text-decoration: none;
+		font:lighter 15px Tahoma;
+		color:#333;
+	}
+
+	.menu-ul-1 {
+		display: none;
+	}
+
+	.main img {
+		display: block;
+		width: 100%;
+	}
+	.footer {
+		background: #3BBEC0;
+		overflow: hidden;
+	}
+	.footer p {
+		font:italic 30px Tahoma;
+		float: left;
+		color: white;
+		width: 50%;
+		margin:20px 0 20px 15%;
+	}
+	p::-moz-selection,
+	a::-moz-selection,
+	img::-moz-selection { 
+		background:#CCC; 
+	}
+	.footer p:hover:before {
+		content: open-quote;
+		display: block;
+		float: left;
+		margin-left:-50px;
+		margin-top: 6px; 
+		height: 30px;
+	}
+	.footer p:hover:after {
+		content: close-quote;
+		display: block;
+		float: right;
+		margin-top: 4px;
+		width: 30px;
+		height: 30px;
+	}
+	.more {
+		background: #1D5F60;
+		float: right;
+		padding:10px 25px;
+		margin: 32px 15% 32px 0;
+	}
+	.more a {
+		text-decoration: none;
+		font:14px Tahoma;
+		color: white;
+	}
+
