@@ -2,7 +2,7 @@
 
 - [copyFile](https://github.com/kongchenglc/learn-node/tree/master/copyFile)
 
-&emsp;&emsp;复制文本的命令行程序。  
+&emsp;&emsp;复制文件的命令行程序。  
 
 - [first server](https://github.com/kongchenglc/learn-node/tree/master/first%20server)
 
