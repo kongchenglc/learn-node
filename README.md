@@ -1,4 +1,4 @@
-# 一些node的代码
+# node的学习笔记
 
 - [copyFile](https://github.com/kongchenglc/learn-node/tree/master/copyFile)
 
