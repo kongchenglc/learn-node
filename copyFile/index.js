@@ -1,7 +1,7 @@
 var fs = require('fs');
 function copy(src, dst) {
-    // fs.writeFileSync(dst, fs.readFileSync(src));
-    fs.createReadStream(src).pipe(fs.createWriteStream(dst));
+    // fs.writeFileSync(dst, fs.readFileSync(src));						//小文件拷贝
+    fs.createReadStream(src).pipe(fs.createWriteStream(dst));			//大文件拷贝
 }
 function main(argv) {
     console.log(process.argv[0], process.argv[1]);
