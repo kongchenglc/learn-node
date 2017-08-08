@@ -8,3 +8,8 @@ function store(key, value) {
 store('foo/bar', 1);
 store('foo//baz//../bar', 2);
 console.log(cache);  // => { "foo/bar": 2 }
+
+var a = path.join("father\\", 'foo/bar');       //多个路径拼接为标准路径
+console.log(a);
+
+console.log(path.extname('foo/bar.js'));
