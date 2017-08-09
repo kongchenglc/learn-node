@@ -1,1 +1,0 @@
-@node "E:\Code\node\copyFile" %*
