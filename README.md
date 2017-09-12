@@ -6,7 +6,7 @@
 
 - [Example](https://github.com/kongchenglc/learn-node/tree/master/Example)
 
-&emsp;&emsp;一个简单的静态文件合并服务器。
+&emsp;&emsp;一个简单的静态文件合并命令行程序。
 
 - [fileAPI](https://github.com/kongchenglc/learn-node/tree/master/fileAPI)
 
