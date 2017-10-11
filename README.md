@@ -1,4 +1,4 @@
-# node的学习笔记
+# node学习笔记
 
 - [Async](https://github.com/kongchenglc/learn-node/tree/master/Async)
 
