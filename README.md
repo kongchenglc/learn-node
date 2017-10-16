@@ -20,10 +20,6 @@
 
 &emsp;&emsp;第一次使用`node`以及模块。
 
-- [node_modules](https://github.com/kongchenglc/learn-node/tree/master/node_modules)
-
-&emsp;&emsp;`node`第三方包。
-
 - [webAPI](https://github.com/kongchenglc/learn-node/tree/master/webAPI)
 
 &emsp;&emsp;和网络有关的`API`。
