@@ -16,6 +16,10 @@
 
 &emsp;&emsp;静态资源服务程序。
 
+- [jsonp](https://github.com/kongchenglc/learn-node/tree/master/jsonp)
+
+&emsp;&emsp;`node`后台的`jsonp`实现。
+
 - [hello](https://github.com/kongchenglc/learn-node/tree/master/hello)
 
 &emsp;&emsp;第一次使用`node`以及模块。
